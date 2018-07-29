@@ -1,4 +1,4 @@
-# Stripe Payments Demo
+# Airwide Stores
 
 This demo features a sample e-commerce store that uses [Stripe Elements](https://stripe.com/docs/elements) and the [Sources API](https://stripe.com/docs/sources) to illustrate how to accept both card payments and additional payment methods on the web.
 
